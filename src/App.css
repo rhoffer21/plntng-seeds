@@ -6,6 +6,7 @@
   width: 1280px;
   padding-top: 10%;
   pointer-events: none;
+  padding-bottom:1000px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -27,6 +28,18 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.invert{
+  filter: invert(100%);
+}
+
+.black{
+  background-color: black;
+}
+
+.white{
+  background-color: white;
 }
 
 @keyframes App-logo-spin {
