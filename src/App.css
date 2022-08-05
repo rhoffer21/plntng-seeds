@@ -4,9 +4,7 @@
 
 .logo {
   width: 1280px;
-  padding-top: 10%;
   pointer-events: none;
-  padding-bottom:1000px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
