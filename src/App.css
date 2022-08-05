@@ -5,6 +5,8 @@
 .logo {
   width: 1280px;
   pointer-events: none;
+  padding-top:250px;
+  margin-bottom: 10%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
